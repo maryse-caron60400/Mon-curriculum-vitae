@@ -64,5 +64,10 @@ img
     text-align: center;
 }
 li li {
+    font-family: fantasy;
+    margin-left: 30px;
+}
+li{
     color :blue;
 }
+
