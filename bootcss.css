@@ -27,3 +27,10 @@ table{
 .contact{
     font-size: 30px;
 }
+.textecache{
+    display: none;
+}
+a:active ~ .textecache{
+    display: block;
+}
+    
