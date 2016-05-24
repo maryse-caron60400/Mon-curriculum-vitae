@@ -30,7 +30,7 @@ table{
 .textecache{
     display: none;
 }
-a:active ~ .textecache{
-    display: block;
+a{
+    color: whitesmoke;
 }
-    
+
