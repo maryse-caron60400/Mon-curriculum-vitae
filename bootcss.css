@@ -18,7 +18,7 @@ li{
     margin-bottom: 5px;
     line-height: 1em;
 }
-h2{
+h1, h2, th{
     text-align: center;
 }
 table{
@@ -31,6 +31,14 @@ table{
     display: none;
 }
 a{
-    color: whitesmoke;
+    color: #EC8900;
 }
-
+.coordonnees{
+    padding: 40px;
+    border: 1px solid;    
+    border-color: orange;
+    color: black;
+    border-bottom-left-radius: 170px;
+    border-top-right-radius: 170px;
+    background-color: #DE5DC9;
+}
